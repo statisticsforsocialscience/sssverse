@@ -8,8 +8,7 @@ time\!
 
 ## Installation
 
-You can install the released version of sssverse from
-[CRAN](https://CRAN.R-project.org) with:
+You can install the released version of sssverse with:
 
 ``` r
 if(!require(devtools)){
