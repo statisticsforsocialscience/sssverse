@@ -24,6 +24,8 @@ Imports:
     reprex,
     rhandsontable,
     questionr,
+    haven,
+    scales
     magrittr
 Encoding: UTF-8
 LazyData: true
