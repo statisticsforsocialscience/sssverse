@@ -1,4 +1,6 @@
-core <- c("clipr", "colourpicker", "datapasta", "esquisse", "ggthemes", "reprex", "rhandsontable", "questionr", "haven", "scales")
+core <- c("clipr", "colourpicker", "datapasta", "esquisse", "ggthemes", "reprex",
+          "rhandsontable", "questionr", "haven", "scales", "jmv", "jmvcore",
+          "psych", "semPLS", "seminr", "lavaan")
 
 core_loaded <- function() {
   search <- paste0("package:", core)

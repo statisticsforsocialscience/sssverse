@@ -18,7 +18,7 @@ The goal of sssverse is to install several useful packages at the same time!
 
 ## Installation
 
-You can install the released version of sssverse with:
+You can install the current version of sssverse with:
 
 ``` r
 if(!require(devtools)){
@@ -26,4 +26,5 @@ if(!require(devtools)){
 }
 devtools::install_github("statisticsforsocialscience/sssverse")
 ```
+
 

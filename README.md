@@ -8,7 +8,7 @@ time\!
 
 ## Installation
 
-You can install the released version of sssverse with:
+You can install the current version of sssverse with:
 
 ``` r
 if(!require(devtools)){
