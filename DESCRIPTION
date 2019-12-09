@@ -31,3 +31,5 @@ RoxygenNote: 6.1.1
 Suggests: 
     testthat
 License: MIT + file LICENSE
+URL: https://github.com/statisticsforsocialscience/sssverse
+BugReports: https://github.com/statisticsforsocialscience/sssverse/issues
