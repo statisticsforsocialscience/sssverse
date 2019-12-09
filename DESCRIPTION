@@ -1,0 +1,33 @@
+Package: sssverse
+Title: A package that contains other packages that are helpful when doing stats in RStudio
+Version: 0.0.1
+Authors@R: c(
+    person("André", "Calero Valdez", , email = "andrecalerovaldez@gmail.com", role = c("aut", "cre"))
+  )
+Description: The 'sssverseverse' is selection of packages designed to be loaded
+    in concert. The purpose of this package is to make it easy to install and 
+    subsequently load those packages.
+Depends: 
+    R (>= 3.1)
+Imports: 
+    cli (>= 1.0.0),
+    crayon (>= 1.3.4),
+    dplyr (>= 0.7.4),
+    purrr (>= 0.2.4),
+    rstudioapi (>= 0.7),
+    tibble (>= 1.4.2),
+    clipr,
+    colourpicker,
+    datapasta,
+    esquisse,
+    ggthemes,
+    reprex,
+    rhandsontable,
+    questionr,
+    magrittr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat
+License: MIT + file LICENSE
