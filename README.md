@@ -16,3 +16,33 @@ if(!require(devtools)){
 }
 devtools::install_github("statisticsforsocialscience/sssverse")
 ```
+
+## What Packages are installed and what do they do
+
+  - cli (\>= 1.0.0), **Shows a nice colored package loader**
+  - crayon (\>= 1.3.4), **Enables the color**
+  - dplyr (\>= 0.7.4), **Data wrangling**
+  - purrr (\>= 0.2.4), **functional programming**
+  - rstudioapi (\>= 0.7), **enabling improvements to rstudio**
+  - tibble (\>= 1.4.2), **a modern data frame**
+  - clipr, **copy data to clipboard and vice versa**
+  - colourpicker, **easily pick colours**
+  - datapasta, **copy data from any format into a data frame**
+  - esquisse, **generate ggplot graphs in UI**
+  - ggthemes, **more cool themes for ggplot**
+  - reprex, **create representative examples if you have troubles**
+  - rhandsontable, **edit data in an excel like fashion**
+  - questionr, **edit factors in the UI**
+  - haven, **read spss data files**
+  - scales, **create percentage scales and more**
+  - magrittr, **piping\!**
+  - jmv, **jamovi functions**
+  - jmvcore, **jamovi support**
+  - psych, **factor analysis and more psychometrics stuff**
+  - semPLS, **PLS Structural equation modelling**
+  - seminr, **improved PLS Structural equation modelling**
+  - lavaan, **Covariance-based SEM (like AMOS)**
+  - cowplot, **cooler plots**
+  - ggeasy, **repeating plotting tasks** (from github)
+  - gramr, **spell check and good writing tools** (from github)
+  - WrapRmd **word wrap for Rmd files** (from github)

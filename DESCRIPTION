@@ -1,6 +1,6 @@
 Package: sssverse
 Title: A package that contains other packages that are helpful when doing stats in RStudio
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: c(
     person("André", "Calero Valdez", , email = "andrecalerovaldez@gmail.com", role = c("aut", "cre"))
   )
@@ -33,11 +33,14 @@ Imports:
     semPLS,
     seminr,
     lavaan,
+    cowplot,
+    ggeasy,
     gramr,
     WrapRmd
 Remotes: 
     github::ropenscilabs/gramr, 
-    github::tjmahr/WrapRmd
+    github::tjmahr/WrapRmd,
+    github::jonocarroll/ggeasy
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
