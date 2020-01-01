@@ -54,6 +54,7 @@ devtools::install_github("statisticsforsocialscience/sssverse")
 *   seminr, **improved PLS Structural equation modelling**
 *   lavaan, **Covariance-based SEM (like AMOS)**
 *   cowplot, **cooler plots**
+*   citr, **Addin for citations in RMarkdown**
 *   ggeasy, **repeating plotting tasks** (from github)
 *   gramr, **spell check and good writing tools** (from github)
 *   WrapRmd **word wrap for Rmd files** (from github)

@@ -36,7 +36,8 @@ Imports:
     cowplot,
     ggeasy,
     gramr,
-    WrapRmd
+    WrapRmd,
+    citr
 Remotes: 
     github::ropenscilabs/gramr, 
     github::tjmahr/WrapRmd,
